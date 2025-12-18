@@ -44,7 +44,7 @@ Full-stack web application for discovering local restaurants. Built with React.j
 - 🔐 JWT authentication & role-based access control
 - 🐳 Docker containerization
 
-### [HamroShop - E-commerce Platform](https://github.com/masummgr01/hamroshop)
+### [HamroShop - E-commerce Platform](https://github.com/masummgr01/Full-Stack-E-Commerce-Platform---MERN-Stack)
 Full-stack e-commerce application with complete shopping experience.
 - 🛒 Product catalog and shopping cart
 - 📦 Order management system
@@ -68,7 +68,7 @@ Client-server chat application supporting one-on-one and group messaging.
 - 💬 Custom message protocol
 - 🖥️ JavaFX GUI
 
-### [Android Weather App](https://github.com/masummgr01/Weather-App)
+### [Android Weather App](https://github.com/masummgr01/Weather-App-by-Masum)
 Native Android application for weather information.
 - 📍 Location-based weather
 - 🔍 City search functionality

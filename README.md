@@ -1,22 +1,18 @@
 # Hi there, I'm Masum Budha Magar 👋
 
 ## 🎓 About Me
+I’m a passionate web developer who enjoys building responsive, user-friendly, and dynamic web applications. I love learning new technologies, solving problems, and turning ideas into practical digital solutions. I’m always eager to improve my skills, explore new tools, and create meaningful web experiences.
 
-Computer Science student at **Tribhuvan University** with a strong foundation in programming fundamentals and modern software development practices. Experienced in building full-stack web applications, API development, and test automation. Passionate about writing efficient, maintainable code and eager to apply academic knowledge in real-world projects.
 
-- 📍 Based in Kirtipur, Kathmandu, Nepal
-- 🎓 Pursuing Bachelor of Computer Applications (Expected 2026)
-- 💻 Currently learning and building full-stack applications
+- 📍 Based in Kathmandu, Nepal
+- 🎓 Pursuing Bachelor of Computer Applications (Expected 2027)
+- 💻 Currently learning and building full-stack web applications
 - 🌱 Open to collaboration on interesting projects
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Web Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -37,13 +33,6 @@ Computer Science student at **Tribhuvan University** with a strong foundation in
 
 ## 🚀 Featured Projects
 
-### [Khaja Ghar Finder - SaaS Restaurant Discovery Platform](https://github.com/masummgr01/Khaja-Ghar-Finder)
-Full-stack web application for discovering local restaurants. Built with React.js, Node.js, Express.js, MongoDB, and Stripe payment integration.
-- ⭐ Restaurant search, filtering, and review system
-- 💳 Payment processing for featured listings
-- 🔐 JWT authentication & role-based access control
-- 🐳 Docker containerization
-
 ### [HamroShop - E-commerce Platform](https://github.com/masummgr01/Full-Stack-E-Commerce-Platform---MERN-Stack)
 Full-stack e-commerce application with complete shopping experience.
 - 🛒 Product catalog and shopping cart
@@ -51,29 +40,6 @@ Full-stack e-commerce application with complete shopping experience.
 - 💰 eSewa payment gateway integration
 - 👨‍💼 Admin dashboard for product management
 - 🚀 Deployed on Vercel & Render
-
-### [Smart Waste Management System](https://github.com/masummgr01/Smart-Waste-Management)
-Real-time waste management application with route optimization.
-- 📍 Real-time tracking with WebSocket
-- 🗺️ Route optimization algorithm
-- 👥 Multi-role dashboards (User, Worker, Admin)
-- 📸 Cloudinary image uploads
-- 🗺️ Leaflet map visualization
-- 🌐 [Live Demo](https://masummgr01.github.io/Smart-Waste-Management/)
-
-### [Java Chat Application](https://github.com/masummgr01/Chat-Application)
-Client-server chat application supporting one-on-one and group messaging.
-- 🔌 TCP/IP socket programming
-- 🧵 Multithreading for concurrent connections
-- 💬 Custom message protocol
-- 🖥️ JavaFX GUI
-
-### [Android Weather App](https://github.com/masummgr01/Weather-App-by-Masum)
-Native Android application for weather information.
-- 📍 Location-based weather
-- 🔍 City search functionality
-- 💾 Data persistence with SharedPreferences
-- 🌐 OpenWeatherMap API integration
 
 ## 📊 GitHub Stats
 
@@ -88,13 +54,7 @@ Native Android application for weather information.
 - 📧 Email: [masummagar6@gmail.com](mailto:masummagar6@gmail.com)
 - 🌐 Portfolio: [masummgr01.github.io/Portfolio-Website](https://masummgr01.github.io/Portfolio-Website)
 - 📱 Phone: +977 9812474471
-
-## 💡 Currently Learning
-
-- Advanced React patterns and optimization
-- System design and architecture
-- Cloud computing and DevOps practices
-- Mobile app development
+\
 
 ## 🤝 Open to Collaboration
 
@@ -102,7 +62,6 @@ I'm always open to collaborating on interesting projects, especially:
 - Full-stack web applications
 - Open source contributions
 - API development and testing
-- Mobile applications
 
 ---
 
